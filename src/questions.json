@@ -1,0 +1,103 @@
+[
+    {
+        "question": "Identify the Chemical Component shown in the Sign ?",
+        "optionA": "Crude Oil",
+        "optionB": "Diesel",
+        "optionC": "Petrol",
+        "optionD": "Kerosene",
+        "answer": "Crude Oil",
+        "img" : "https://i.ibb.co/cXjq2cY/3.png"
+        
+    },
+
+    {
+        "question": "Identify the Chemical Component shown in the Sign ?",
+        "optionA": "Crude Oil",
+        "optionB": "Diesel",
+        "optionC": "Petrol",
+        "optionD": "Kerosene",
+        "answer": "Diesel",
+        "img" : "https://i.ibb.co/25FXwhC/W.png"
+    },
+
+    {
+        "question": "What does E in Hazchem Code mean ?",
+        "optionA": "Explosive",
+        "optionB": "Evacuate",
+        "optionC": "Equipment",
+        "optionD": "Evaporate",
+        "answer": "Evacuate",
+        "img" : "https://i.ibb.co/syn5MqX/3.png"
+    },
+
+    {
+        "question": "What extinguisher should be used for Crude Oil ?",
+        "optionA": "Foam",
+        "optionB": "Dry Agent",
+        "optionC": "Water Jet",
+        "optionD": "Fog",
+        "answer": "Foam",
+        "img" : "https://i.ibb.co/6nTj02G/blank.png"
+    },
+
+    {
+        "question": "What extinguisher should be used for Petrol ?",
+        "optionA": "Water Jet",
+        "optionB": "Foam",
+        "optionC": "Fog",
+        "optionD": "Dry Agent",
+        "answer": "Foam",
+        "img" : "https://i.ibb.co/6nTj02G/blank.png"
+    },
+
+    {
+        "question": "What does a TREM Card contain ?",
+        "optionA": "Emergency Handling of Products",
+        "optionB": "Driving Tips",
+        "optionC": "Traffic Rules",
+        "optionD": "Vehicle Info",
+        "answer": "Emergency Handling of Products",
+        "img" : "https://i.ibb.co/6nTj02G/blank.png"
+    },
+
+    {
+        "question": "What number to call for Fire Service ?",
+        "optionA": "100",
+        "optionB": "101",
+        "optionC": "108",
+        "optionD": "105",
+        "answer": "101",
+        "img" : "https://i.ibb.co/6nTj02G/blank.png"
+    },
+
+    {
+        "question": "What does W indicates ?",
+        "optionA": "Contains Substance can be violent",
+        "optionB": "Wear full protective apparatus",
+        "optionC": "Both",
+        "optionD": "None",
+        "answer": "Both",
+        "img" : "https://i.ibb.co/cXjq2cY/3.png"
+    },
+
+    {
+        "question": "What does Y indicates ?",
+        "optionA": "Contain Substance",
+        "optionB": "Wearing Breathing Apparatus",
+        "optionC": "Both",
+        "optionD": "None",
+        "answer": "Both",
+        "img" : "https://i.ibb.co/25FXwhC/W.png"
+    },
+
+    {
+        "question": "Which route should the driver take to deposit product at agency/Plant ?",
+        "optionA": "Company Specified Route",
+        "optionB": "No Toll route",
+        "optionC": "Short route",
+        "optionD": "Long route",
+        "answer": "Company Specified Route",
+        "img" : "https://i.ibb.co/6nTj02G/blank.png"
+    }
+
+]
